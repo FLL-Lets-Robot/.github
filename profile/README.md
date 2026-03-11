@@ -3,6 +3,7 @@
 
 <details> 
 ### <summary>Social Accounts</summary>
+  
 - [Instagram](https://www.instagram.com/lets_robot/)
   
 </details>
